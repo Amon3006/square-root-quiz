@@ -1,0 +1,5 @@
+{
+  "name": "square-root practice",
+  "description": "An application to practice calculating the squares of two-digit numbers and the square roots of four-digit perfect squares, designed with an Android-like user interface.",
+  "requestFramePermissions": []
+}
